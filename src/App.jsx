@@ -5,7 +5,7 @@ const App = () => {
     <div>
       <button>click me</button>
       <Home name='Rahul' job='developer'/>
-      <Home name='Raj' job='scientist'/>
+      <Home name='Roshan' job='scientist'/>
     </div>
   )
 }
